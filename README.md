@@ -14,8 +14,7 @@
 
 <p align="center">
   <a href="#-instalacao-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🚀 Instalação e execução
@@ -46,15 +45,14 @@ _ps: Se precisar de ajuda para fazer um clone, esse [tutorial aqui](https://help
 		TemplateLiterals
 - Webpack Server
 		Configurando Webpack
-		Import/export:
-		Webpack dev server:
+		Import/export
+		Webpack dev server
 - Async/await
 		Conceitos
 		Configurando axios
 - Aplicação com ES6+
-		Estrutura e estilos:
-		Adicionar repositórios:
-		Render em tela:
-		Buscando da API:
-		Loading e error:
-
+		Estrutura e estilos
+		Adicionar repositórios
+		Render em tela
+		Buscando da API
+		Loading e error
